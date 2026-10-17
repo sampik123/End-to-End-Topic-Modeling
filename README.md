@@ -64,7 +64,7 @@ Only two columns are used:
 
 The file is about 70 MB, so it is **not included in this repository**. You can either:
 
-- **Download the dataset** from **[ADD YOUR DATASET LINK HERE]** and place it in the project root, or
+- **Download the dataset** from **Link** and place it in the project root, or
 - **Collect your own data** from the NewsData.io API using a free API key from [newsdata.io](https://newsdata.io), and save it as `final_data_topic_modelling.csv` with `Title` and `Content` columns.
 
 Check NewsData.io's terms of service before redistributing the collected articles.
